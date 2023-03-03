@@ -6,4 +6,3 @@ s1 = {}
 for i, j in zip(names, grades):
     s1.setdefault(i, j)
 
-result= []
